@@ -12,9 +12,6 @@ A space for tinkering and building.
 - **attachments**
 
 - [[Fitness Dashboard]]
-- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
-- [[Setting Up A Virtual Env For Development]]
 - [[Setting Up An Obsidian-based Digital Cottage Website]]
-- [[Setting up SSH to EC2 Instances]]
 
 %% End Waypoint %%

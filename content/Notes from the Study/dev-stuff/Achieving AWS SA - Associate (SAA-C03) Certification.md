@@ -26,7 +26,7 @@ Generally, all cloud service offerings are based on familiar, existing technolog
 Due to this, it was helpful to relate service offerings to general industry status quo and requirements. 
 Other notes: 
 
-- **Frame learning with a perspective of [[../The Various Art and Trinkets/Focusing Your Unconscious Mind - Learn Hard Concepts Intuitively (And Forever)|"inventing"]] the solutions.** I did this as I progressed through the content - linking it to tech I'm already familiar with, and other ones that I wasn't yet.
+- **Frame learning with a perspective of [[../../The Various Art and Trinkets/Focusing Your Unconscious Mind - Learn Hard Concepts Intuitively (And Forever)|"inventing"]] the solutions.** I did this as I progressed through the content - linking it to tech I'm already familiar with, and other ones that I wasn't yet.
 
 - **Alternate between top-down and bottom up learning.** Lead this based on curiosity and naturally arising questions. Doing so would often walk me to "ah-ha!" moments. 
 
@@ -47,11 +47,11 @@ General priorities include:
 ### Napkin Scratch AWS Project ideas:
 While working through the content, I had fun letting my mind wander on potential uses for the services within future project ideas. 
 
-- Use an S3 bucket with [[../The Messy Workbench/Fitness Dashboard|Fitness Dashboard]] to store backup/archives of either the user’s input spreadsheets, or output JSON files. 
+- Use an S3 bucket with [[../../The Messy Workbench/Fitness Dashboard|Fitness Dashboard]] to store backup/archives of either the user’s input spreadsheets, or output JSON files. 
 
 - Include proof of concept (and probably overdesigned) elements of high availability, fault-tolerance and disaster recovery for web-app, just to better familiarise with the concepts.
 
-- Host an OOB error page with S3 static hosting and R53 DNS fail-over, for both [[../The Messy Workbench/Fitness Dashboard|Fitness Dashboard]] and this Digital Cottage personal website. 
+- Host an OOB error page with S3 static hosting and R53 DNS fail-over, for both [[../../The Messy Workbench/Fitness Dashboard|Fitness Dashboard]] and this Digital Cottage personal website. 
 	- Potentially covered by free tier of AWS Shield Standard? 
 	
 - Experiment with various ways to break up the current monolithic design of projects to:

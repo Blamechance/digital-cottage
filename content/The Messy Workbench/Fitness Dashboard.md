@@ -24,7 +24,7 @@ Some key ideas:
 
 # Links:
 The github repository is [here](https://github.com/Blamechance/fitness-dashboard). 
-A copy of the `README.md` is [[../Notes from the Study/Fitness Dashboard README|here.]]
+A copy of the `README.md` is [[../Notes from the Study/dev-stuff/Fitness Dashboard README|here.]]
 
 Here's a quick video walk-through: 
 ![Youtube Link.](https://youtu.be/Np4lORlm-Y0)
@@ -63,8 +63,8 @@ The Tl;DR of it is that I went with a AWS Free Tier Ubuntu 20.04 instance, hosti
 
 It's accessible [here](https://fitness-dashboard.tcao.dev/login)! **EDIT: I've decommissioned it due to expiring EC2 Free Tier, but feel free to check out the video demonstration or GitHub repo.**
 
-- [[../Notes from the Study/Setting Up AWS Sub-Account Structure For Projects|Setting Up AWS Sub-Account Structure For Projects]]
-- [[Serving a Flask Web App on AWS using Gunicorn And Nginx|Serving a Flask Web App on AWS using Gunicorn And Nginx]]
+- [[../Notes from the Study/dev-stuff/Setting Up AWS Sub-Account Structure For Projects|Setting Up AWS Sub-Account Structure For Projects]]
+- [[../Notes from the Study/dev-stuff/Serving a Flask Web App on AWS using Gunicorn And Nginx|Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 
 ### Notes And Considerations Over Architecture: 
 #### Unwanted Traffic: 
@@ -89,4 +89,4 @@ A serverless design with Lambda was considered, but current app design makes use
 
 ---
 # Backlinks: 
-- [[../Notes from the Study/Fitness Dashboard README|Fitness Dashboard README]]
+- [[../Notes from the Study/dev-stuff/Fitness Dashboard README|Fitness Dashboard README]]
