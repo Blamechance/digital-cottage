@@ -1,13 +1,15 @@
 ---
-title: "Books"
+title: The Dusty Bookshelf
 date: 2023-07-26T22:52
 enableToc: false
 tags:
-- MOC
+  - MOC
 ---
-### Quotes, summaries and reviews of books I've read. 
+Notes and reviews of books I've read. 
+
 *Format is {Title:Author}*
 
+## Directory: 
 %% Begin Waypoint %%
 - [[After Dark - Murakami]]
 - [[Flow - Csikszentmihalyi]]

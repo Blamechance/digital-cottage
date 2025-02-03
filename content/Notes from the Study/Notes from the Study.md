@@ -1,11 +1,13 @@
 ---
-title: "Notes"
+title: Notes from the Study
 date: 2023-07-26T22:53
 enableToc: false
 tags:
-- MOC
+  - MOC
 ---
-### Free-for-all space for sharing notes I've created within my digital Personal Knowledge Management systems.
+The bulk of my second brain. Free-for-all collection of notes. 
+
+## Directory:
 
 %% Begin Waypoint %%
 - [[Achieving AWS SA - Associate (SAA-C03) Certification]]

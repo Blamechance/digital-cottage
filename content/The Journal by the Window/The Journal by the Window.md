@@ -1,11 +1,12 @@
 ---
-title: "Thoughts And Mental Snippets"
+title: The Journal by the Window
 date: 2023-07-26T22:54
 enableToc: false
 tags:
-- MOC
+  - MOC
 ---
-### My written posts and other mental snippets. 
+Miscellaneous blog posts, thoughts and ideas. 
+## Directory: 
 
 %% Begin Waypoint %%
 - [[A Case For Analogue Journaling And Tools]]

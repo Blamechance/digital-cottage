@@ -1,12 +1,13 @@
 ---
-title: "Projects"
+title: The Messy Workbench
 date: 2023-07-26T22:53
 enableToc: false
 tags:
-- MOC
+  - MOC
 ---
-### Napkin sketches, working products, and everything in between. 
+A space for tinkering and building.
 
+## Directory:
 %% Begin Waypoint %%
 - **attachments**
 
