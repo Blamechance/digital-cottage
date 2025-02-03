@@ -1,0 +1,16 @@
+---
+title: " After 34 Years Someone Finally Beat Tetris - aGameScout"
+date: 2024-01-05T17:57
+enableToc: false
+tags:
+  - resonance-journal
+  - "#Gaming"
+  - Inspiration
+---
+[Link](https://www.youtube.com/watch?v=GuJ5UuknsHU).
+
+The evolution of the Tetris Meta is a great example for humanity's tenacity for continuous improvement. It's yet another case for how we as a group are able to achieve impossible efforts, through standing on the shoulders of those before us.  
+
+Constantly, they took something that was impossible -- found a sliver for what could be possible, and strived to achieve it until reaching a definitive conclusion. 
+
+A whole bunch of dudes being passionate about a single thing, cheering each other on. BlueScuti has a great attitude towards hard work too, unexpected for his age. Super cool!
