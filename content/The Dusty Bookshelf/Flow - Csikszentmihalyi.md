@@ -1,9 +1,9 @@
 ---
 kindle-sync:
-  bookId: "13753"
+  bookId: '13753'
   title: Flow
   author: Mihaly Csikszentmihalyi
-  highlightsCount: 10
+  highlightsCount: 12
 title: Flow - Csikszentmihalyi
 ---
 # Flow - Mihaly Csikszentmihalyi
@@ -82,5 +82,12 @@ We may call intentions the force that keeps information in consciousness ordered
 Page: 41
 
 Individuals who depart from the norms—heroes, saints, sages, artists, and poets, as well as madmen and criminals—look for different things in life than most others do. The existence of people like these shows that consciousness can be ordered in terms of different goals and intentions. Each of us has this freedom to control our subjective reality. ^ref-58440
+
+---
+
+attention. At the same party, the extrovert will seek out and enjoy interactions with others, the high achiever will look for useful business contacts, and the paranoid will be on guard for signs of danger he must avoid. Attention can be invested in innumerable ways, ways that can make life either rich or miserable. — location: [714]() ^ref-47741
+
+---
+Because attention determines what will or will not appear in consciousness, and because it is also required to make any other mental events—such as remembering, thinking, feeling, and making decisions—happen there, it is useful to think of it as psychic energy. Attention is like energy in that without it no work can be done, and in doing work it is dissipated. — location: [722]() ^ref-2612
 
 ---

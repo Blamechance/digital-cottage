@@ -1,9 +1,9 @@
 ---
 kindle-sync:
-  bookId: "30033"
+  bookId: '30033'
   title: The 7 Habits of Highly Effective People
   author: Stephen R. Covey
-  highlightsCount: 37
+  highlightsCount: 44
 title: The 7 Habits of Highly Effective People - Covey
 ---
 # The 7 Habits of Highly Effective People - Stephen R. Covey
@@ -224,5 +224,27 @@ Management is essentially moving the fulcrum over, and the key to effective mana
 Page: 183
 
 We can often live for years with the chronic pain of our lack of vision, leadership or management in our personal lives. We feel vaguely uneasy and uncomfortable and occasionally take steps to ease the pain, at least for a time. Because the pain is chronic, we get used to it, we learn to live with it. ^ref-45324
+
+---
+
+MATURITY. Maturity is the balance between courage and consideration. I first learned this definition of maturity in the fall of 1955 from a marvelous professor, Hrand Saxenian, who instructed my Control class at the Harvard Business School. He taught the finest, simplest, most practical, yet profound, definition of emotional maturity I’ve ever come across—“the ability to express one’s own feelings and convictions balanced with consideration for the thoughts and feelings of others.” As — location: [3334]() ^ref-38934
+
+---
+balanced with consideration for the thoughts and feelings of others.” As — location: [3337]() ^ref-49565
+
+---
+The following diagram shows how these five dimensions relate to each other. Now let’s consider each of the five dimensions in turn. Character Character is the foundation of Win/Win, and everything else builds on that foundation. There are three character traits essential to the Win/Win paradigm. INTEGRITY. We’ve already defined integrity as the value we place on ourselves. Habits 1, 2, and 3 help us develop and maintain integrity. As we clearly identify our values and proactively organize and execute around those values on a daily basis, we develop self-awareness and independent will by making and keeping meaningful promises and commitments. There’s no way to go for a Win in our own lives if we don’t even know, in a deep sense, what constitutes a Win—what is, in fact, harmonious with our innermost values. And if we can’t make and keep commitments to ourselves as well as to others, our commitments become meaningless. We know it; others know it. They sense duplicity and become guarded. There’s no foundation of trust and Win/Win becomes an ineffective superficial technique. Integrity is the cornerstone in the foundation. MATURITY. Maturity is the balance between courage and consideration. I first learned this definition of maturity in the fall of 1955 from a marvelous professor, Hrand Saxenian, who instructed my Control class at the Harvard Business School. He taught the finest, simplest, most practical, yet profound, definition of emotional maturity I’ve ever come across—“the ability to express one’s own feelings and convictions balanced with consideration for the thoughts and feelings of others.” — location: [3323]() ^ref-17741
+
+---
+tough. But Win/Win is nice... and tough. It’s twice as tough as Win/Lose. To go for Win/Win, you not only have to be nice, you have to be courageous. You not only have to be empathic, you have to be confident. You not only have to be considerate and sensitive, you have to be brave. To do that, to achieve that balance between courage and consideration, is the essence of real maturity and is fundamental to Win/Win. If I’m high on courage and low on consideration, how will I think? Win/Lose. I’ll be strong and ego bound. I’ll have the courage of my convictions, but I won’t be very considerate of yours. To compensate for my lack of internal maturity and emotional strength, I might borrow strength from my position and power, or from my credentials, my seniority, my affiliations. If I’m high on consideration and low on courage, I’ll think Lose/Win. I’ll be so considerate of your convictions and desires that I won’t have the courage to express and actualize my own. High courage and consideration are both essential to Win/Win. It is the balance that is the mark of real maturity. If I have it, I can listen, I can empathically understand, but I can also courageously confront. ABUNDANCE MENTALITY. The third character trait essential to Win/Win is the Abundance Mentality, the paradigm that there is plenty out there for everybody. Most people are deeply scripted in what I call the Scarcity Mentality. They see life as having only so much, as though there were only one pie out there. And if someone were to get a big piece of the pie, it would mean less for everybody else. The Scarcity Mentality is the zero-sum paradigm of life. People with a Scarcity Mentality have a very difficult time sharing recognition and credit, power or profit—even with those who help in the production. They also have a very hard time being genuinely happy for the successes of other people—even, and sometimes especially, members of their own family or close friends and associates. It’s almost as if something is being taken from them when someone else receives special recognition or windfall gain or has remarkable success or achievement. — location: [3349]() ^ref-19860
+
+---
+Most people are deeply scripted in what I call the Scarcity Mentality. They see life as having only so much, as though there were only one pie out there. And if someone were to get a big piece of the pie, it would mean less for everybody else. The Scarcity Mentality is the zero-sum paradigm of life. People with a Scarcity Mentality have a very difficult time sharing recognition and credit, power or profit—even with those who help in the production. They also have a very hard time being genuinely happy for the successes of other people—even, and sometimes especially, members of their own family or close friends and associates. It’s almost as if something is being taken from them when someone else receives special recognition or windfall gain or has remarkable success or achievement. — location: [3361]() ^ref-32020
+
+---
+So I recommend reading literature, such as the inspiring biography of Anwar Sadat, In Search of Identity, and seeing movies like Chariots of Fire or plays like Les Miserables that expose you to models of Win/Win. — location: [3388]() ^ref-13543
+
+---
+One thing I have found particularly helpful to Win/Lose people in developing a Win/Win character is to associate with some model or mentor who really thinks Win/Win. When people are deeply scripted in Win/Lose or other philosophies and regularly associate with others who are likewise scripted, they don’t have much opportunity to see and experience the Win/Win philosophy in action. So I recommend reading literature, such as the inspiring biography of Anwar Sadat, In Search of Identity, and seeing movies like Chariots of Fire or plays like Les Miserables that expose you to models of Win/Win. — location: [3385]() ^ref-2487
 
 ---

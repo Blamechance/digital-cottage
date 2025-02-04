@@ -14,8 +14,12 @@ Notes and reviews of books I've read.
 - [[After Dark - Murakami]]
 - [[Flow - Csikszentmihalyi]]
 - [[Four Thousand Weeks - Burkeman]]
+- [[FullBashGuide - Unknown]]
+- [[Man and His Symbols - Jung]]
+- [[So Good They Cant Ignore You - Newport]]
 - [[The 7 Habits of Highly Effective People - Covey]]
 - [[The Defining Decade - Jay]]
 - [[The Psychology of Money - Housel]]
+- [[The Staff Engineer’s Path - Reilly]]
 
 %% End Waypoint %%
