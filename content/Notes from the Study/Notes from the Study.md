@@ -5,7 +5,7 @@ enableToc: false
 tags:
   - MOC
 ---
-Notes from my second brain. Free-for-all collection of notes. 
+Free-for-all collection of notes from my second brain. 
 
 ## Directory:
 
