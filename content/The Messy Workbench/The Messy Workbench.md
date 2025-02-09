@@ -11,7 +11,7 @@ A space for tinkering and building.
 %% Begin Waypoint %%
 - **attachments**
 
-- [Fitness Dashboard](./Fitness%20Dashboard.md)
-- [Setting Up An Obsidian-based Digital Garden Website](./Setting%20Up%20An%20Obsidian-based%20Digital%20Garden%20Website.md)
+- [[Fitness Dashboard]]
+- [[Setting Up An Obsidian-based Digital Garden Website]]
 
 %% End Waypoint %%

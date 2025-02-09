@@ -2,7 +2,7 @@
 title: Home
 enableToc: false
 ---
-Welcome to my digital cottage! 
+Welcome to my digital cottage! 👋
 
 This is mostly a space for me to write, think, reference and build. 
 
