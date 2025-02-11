@@ -18,26 +18,26 @@ tags:
 - Any reads from disk will made in *`blocks`*,
 - These `blocks` are sequential and represent the unit from which *read operations* are made. 
 	- Additionally, to read a specific portion of data, the entire block context needs to be read. 
-	![[attachments/db-index-fundamentals.png]]
+	![[notes from the study/attachments/db-index-fundamentals.png]]
 	- If each **record/row** is `200B` large, then a single block could then represent 3 records.
 	- These records will be serialised sequentially on disk. 
-	![[attachments/db-index-fundamentals-1.png]]
+	![[notes from the study/attachments/db-index-fundamentals-1.png]]
 
 - **Index high level definition**:
 	-  Indexes are small referential tables that hold row references against the indexed value. 
 	- Functionally, Indexes are virtually **2 column tables.**
 	- Indexes are **SORTED by the indexed value**. 
-	![[attachments/db-index-fundamentals-2.png]]
+	![[notes from the study/attachments/db-index-fundamentals-2.png]]
 
 
 ## Example flow of index efficiency:
 ### Query flow for non-indexed output:
-- ![[attachments/db-index-fundamentals-3.png]]
+- ![[notes from the study/attachments/db-index-fundamentals-3.png]]
 
 #### Output flow if utilising index
 
-![[attachments/db-index-fundamentals-4.png]]
-![[attachments/db-index-fundamentals-5.png]]
+![[notes from the study/attachments/db-index-fundamentals-4.png]]
+![[notes from the study/attachments/db-index-fundamentals-5.png]]
 
 ![[db-index-fundamentals-6.png]]
 A major feature to note is that indexes are **ORDERED**. 
