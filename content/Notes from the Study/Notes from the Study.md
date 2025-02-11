@@ -17,9 +17,9 @@ Free-for-all collection of notes from my second brain.
 - [[bash-sed]]
 - [[bash-syntax-spaced-rep]]
 - [[Clean Code]]
-- [[Database Index Fundamentals]]
 - **dev-stuff**
 	- [[Achieving AWS SA - Associate (SAA-C03) Certification]]
+	- [[Database Index Fundamentals]]
 	- [[Fitness Dashboard README]]
 	- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 	- [[Setting Up A Virtual Env For Development]]
