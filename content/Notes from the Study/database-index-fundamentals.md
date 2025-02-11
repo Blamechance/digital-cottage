@@ -2,10 +2,10 @@
 date: 2025-02-11T22:14
 enableToc: false
 tags:
-  - index
-  - indexes
   - SQL
-  - databases
+  - database
+  - indexing
+  - index
 ---
 
 # Database Indexing explained - Hussein Nasser
@@ -18,28 +18,28 @@ tags:
 - Any reads from disk will made in *`blocks`*,
 - These `blocks` are sequential and represent the unit from which *read operations* are made. 
 	- Additionally, to read a specific portion of data, the entire block context needs to be read. 
-	![[notes from the study/attachments/db-index-fundamentals.png]]
+	![[attachments/db-index-fundamentals.png]]
 	- If each **record/row** is `200B` large, then a single block could then represent 3 records.
 	- These records will be serialised sequentially on disk. 
-	![[notes from the study/attachments/db-index-fundamentals-1.png]]
+	![[attachments/db-index-fundamentals-1.png]]
 
 - **Index high level definition**:
 	-  Indexes are small referential tables that hold row references against the indexed value. 
 	- Functionally, Indexes are virtually **2 column tables.**
 	- Indexes are **SORTED by the indexed value**. 
-	![[notes from the study/attachments/db-index-fundamentals-2.png]]
+	![[attachments/db-index-fundamentals-2.png]]
 
 
 ## Example flow of index efficiency:
 ### Query flow for non-indexed output:
-- ![[notes from the study/attachments/db-index-fundamentals-3.png]]
+- ![[attachments/db-index-fundamentals-3.png]]
 
 #### Output flow if utilising index
 
-![[notes from the study/attachments/db-index-fundamentals-4.png]]
-![[notes from the study/attachments/db-index-fundamentals-5.png]]
+![[attachments/db-index-fundamentals-4.png]]
+![[attachments/db-index-fundamentals-5.png]]
 
-![[db-index-fundamentals-6.png]]
+![[attachments/db-index-fundamentals-6.png]]
 A major feature to note is that indexes are **ORDERED**. 
 - The natural order for records written to disk is instead in the *natural order the data was written -- unordered*. 
 - This allows queries context to optimise WHERE within the index data structure to look, to find the desired records. 

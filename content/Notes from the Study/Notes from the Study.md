@@ -10,6 +10,7 @@ Free-for-all collection of notes from my second brain.
 ## Directory:
 
 %% Begin Waypoint %%
+- [[Achieving AWS SA - Associate (SAA-C03) Certification]]
 - **attachments**
 
 - [[bash-awk]]
@@ -17,15 +18,12 @@ Free-for-all collection of notes from my second brain.
 - [[bash-sed]]
 - [[bash-syntax-spaced-rep]]
 - [[Clean Code]]
-- **dev-stuff**
-	- [[Achieving AWS SA - Associate (SAA-C03) Certification]]
-	- [[Database Index Fundamentals]]
-	- [[Fitness Dashboard README]]
-	- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
-	- [[Setting Up A Virtual Env For Development]]
-	- [[Setting Up AWS Sub-Account Structure For Projects]]
-	- [[Setting up SSH to EC2 Instances]]
-- **life-and-hobbies**
+- [[database-index-fundamentals]]
+- [[Fitness Dashboard README]]
 - [[Pareto Principle]]
+- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
+- [[Setting Up A Virtual Env For Development]]
+- [[Setting Up AWS Sub-Account Structure For Projects]]
+- [[Setting up SSH to EC2 Instances]]
 
 %% End Waypoint %%
