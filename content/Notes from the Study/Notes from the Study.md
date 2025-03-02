@@ -26,5 +26,6 @@ Free-for-all collection of notes from my second brain.
 - [[Setting Up AWS Sub-Account Structure For Projects]]
 - [[Setting up SSH to EC2 Instances]]
 - [[Vector Search General]]
+- [[Vector Search Retrieval and Distance Metrics]]
 
 %% End Waypoint %%

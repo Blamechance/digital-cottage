@@ -13,7 +13,8 @@ tags:
 # What is Data Vectorisation? 
 `Vectors` are encoded representations of unstructured data like text, images, and audio in the form of an **ordered arrays of numbers** (`floats` or `int8`).
 
-![[../../media_Untitled-2.png]]
+![[attachments/media_Untitled-2.png]]
+![mental-noise.png](attachments/
 
 *Credit: CeVo Australia*
 
@@ -48,9 +49,9 @@ Vector search refers to the utilisation of a query (often with the assistance of
 
 As concisely described by Jose Parra in [this post](https://www.mongodb.com/blog/post/vector-search-llm-essentials-what-when-why#:~:text=When%20were%20LLMs%20created%3F): 
 > "To understand the concept of vector similarity, let’s picture a three-dimensional space. In this space, the location of a data point is fully determined by three coordinates.
-![[../../media_Untitled.png]]
+![[attachments/media_Untitled.png]]
 > In the same way, if a space has 1024 dimensions, it takes 1024 coordinates to locate a data point."
->![[../../media_Untitled-1.png]]
+>![[attachments/media_Untitled-1.png]]
 
 To clarify on his latter point, each additional `dimension` will add a new element in the array. Hence, a vector with `n` amount of dimensions, has `n` amount of elements in the resulting embedding array. 
 - This is what is meant, when Vector Search is described as "operating in a multi-dimensional space".
@@ -64,8 +65,7 @@ Some of the more commonly used distance metrics used are:
 - `Dot Product`
 - `Manhattan Distance`
 
-
-
+To read more on this, see my other note: [[Vector Search Retrieval and Distance Metrics]]. 
 
 
 
