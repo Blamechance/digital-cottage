@@ -1,6 +1,6 @@
 ---
 date: 2025-03-02T12:13
-enableToc: false
+enableToc: true
 tags:
   - vector-search
   - AI
@@ -50,12 +50,14 @@ Vector search refers to the utilisation of a query (often with the assistance of
 As concisely described by Jose Parra in [this post](https://www.mongodb.com/blog/post/vector-search-llm-essentials-what-when-why#:~:text=When%20were%20LLMs%20created%3F): 
 > "To understand the concept of vector similarity, let’s picture a three-dimensional space. In this space, the location of a data point is fully determined by three coordinates.
 ![[attachments/media_Untitled.png]]
+> 
 > In the same way, if a space has 1024 dimensions, it takes 1024 coordinates to locate a data point."
+> 
 >![[attachments/media_Untitled-1.png]]
 
 To clarify on his latter point, each additional `dimension` will add a new element in the array. Hence, a vector with `n` amount of dimensions, has `n` amount of elements in the resulting embedding array. 
 - This is what is meant, when Vector Search is described as "operating in a multi-dimensional space".
-- A Vector search will require a vector query to have the same amount of dimensions/embedding elements, as to complete a valid search — similar to valid use of coordinates. 
+- A vector search will require a vector query to have the same amount of dimensions/embedding elements, as to complete a valid search — similar to valid use of coordinates. 
 
 As data is plotted across different "coordinates" in this multi-dimensional space, we can use various mathematical concepts to determine "similarity", depending on their "distance" relative to eachother. 
 
