@@ -25,5 +25,6 @@ Free-for-all collection of notes from my second brain.
 - [[Setting Up A Virtual Env For Development]]
 - [[Setting Up AWS Sub-Account Structure For Projects]]
 - [[Setting up SSH to EC2 Instances]]
+- [[Vector Search General]]
 
 %% End Waypoint %%
