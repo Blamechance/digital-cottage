@@ -10,6 +10,7 @@ Free-for-all collection of notes from my second brain.
 ## Directory:
 
 %% Begin Waypoint %%
+- [[Achieving AWS SA - Associate (SAA-C03) Certification]]
 - **attachments**
 
 - [[bash-awk]]
