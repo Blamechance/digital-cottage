@@ -56,7 +56,7 @@ This is the account to use from now on, unless organisation changes need to be m
 ## 3. Creating an OU/sub-account for different projects
 In essence, there should be a single management account serving to consolidate all sub-accounts. Under that, there will be a projects OU, with further sub-OUs to house each specific project, such as below: 
 
-![](../../The%20Various%20Art%20and%20Trinkets/attachments/AWS%20Projects%20Accounts.png)
+![](../../The%20Various%20Room%20Art%20and%20Trinkets/attachments/AWS%20Projects%20Accounts.png)
 
 1. Navigate to AWS Organisations and click on **"Add an AWS account**". 
 2. Create a new account filling in a separate email address
@@ -118,7 +118,7 @@ The worker user should have access to assume both roles now, and this can conven
 4. Enter the role name under "Role". 
 5. The display name and colour are up to your preference. 
 6. Click switch role. Switched roles will be shown in the top-right menu for future convenience. 
-![](../../The%20Various%20Art%20and%20Trinkets/attachments/Setting%20up%20AWS%20sub-account%20structure%20for%20projects.png)
+![](../../The%20Various%20Room%20Art%20and%20Trinkets/attachments/Setting%20up%20AWS%20sub-account%20structure%20for%20projects.png)
 
 
 

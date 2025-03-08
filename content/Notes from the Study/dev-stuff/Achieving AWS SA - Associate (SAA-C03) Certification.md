@@ -26,7 +26,7 @@ Generally, all cloud service offerings are based on familiar, existing technolog
 Due to this, it was helpful to relate service offerings to general industry status quo and requirements. 
 Other notes: 
 
-- **Frame learning with a perspective of [[../../The Various Art and Trinkets/Focusing Your Unconscious Mind - Learn Hard Concepts Intuitively (And Forever)|"inventing"]] the solutions.** I did this as I progressed through the content - linking it to tech I'm already familiar with, and other ones that I wasn't yet.
+- **Frame learning with a perspective of [[../../The Various Room Art and Trinkets/Focusing Your Unconscious Mind - Learn Hard Concepts Intuitively (And Forever)|"inventing"]] the solutions.** I did this as I progressed through the content - linking it to tech I'm already familiar with, and other ones that I wasn't yet.
 
 - **Alternate between top-down and bottom up learning.** Lead this based on curiosity and naturally arising questions. Doing so would often walk me to "ah-ha!" moments. 
 
