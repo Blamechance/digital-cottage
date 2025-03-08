@@ -20,7 +20,7 @@ In this example, I've hosted a flask web app on a personal domain, accessible to
 
 1. **Ensure you have created a `requirements.txt`  file from the local directory.**
 	- This can alternatively be done with other environment tools like `venv` and `virutalenv`, but I've used `pipenv`. 
-	- [[Setting Up A Virtual Env For Development|Setting Up A Virtual Env For Development]]
+	- [[../Notes from the Study/Setting Up A Virtual Env For Development 1|Setting Up A Virtual Env For Development 1]]
 1. **Create Ubuntu EC2 instance.** 
 	- If looking to stay in free tier, choose the instance type highlighted as such (currently T2 Micro). 
 	- I chose Ubuntu Server 20.04 LTS. 

@@ -4,6 +4,7 @@ date: 2025-03-08T20:40
 enableToc: true
 tags:
   - resonance-journal
+  - career
 ---
 
 ![The Dead Simple Reason You're Not Getting Promoted (Ex-Amazon Principal Engineer) | A Life Engineered](https://www.youtube.com/watch?v=RUlvn0dbA0k)

@@ -16,21 +16,15 @@ Free-for-all collection of notes from my second brain.
 - [[bash-find]]
 - [[bash-sed]]
 - [[bash-syntax-spaced-rep]]
+- [[Becoming AWS SA - Associate (SAA-C03) Certified]]
 - [[Clean Code]]
 - [[database-index-fundamentals]]
-- **dev-stuff**
-	- [[Achieving AWS SA - Associate (SAA-C03) Certification]]
-	- [[Fitness Dashboard README]]
-	- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
-	- [[Setting Up A Virtual Env For Development]]
-	- [[Setting Up AWS Sub-Account Structure For Projects]]
-	- [[Setting up SSH to EC2 Instances]]
-- [[Fitness Dashboard README]]
-- **life-and-hobbies**
 - [[Pareto Principle]]
-- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 - [[Setting Up A Virtual Env For Development]]
+- [[Setting up SSH to EC2 Instances]]
 - [[Vector Search General]]
 - [[Vector Search Retrieval and Distance Metrics]]
 
 %% End Waypoint %%
+
+%% Waypoint %% 

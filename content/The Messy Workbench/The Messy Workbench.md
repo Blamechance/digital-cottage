@@ -11,8 +11,10 @@ A space for tinkering and building.
 %% Begin Waypoint %%
 - **attachments**
 
+- [[Fitness Dashboard README]]
 - [[Fitness Dashboard]]
+- [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 - [[Setting Up An Obsidian-based Digital Cottage Website]]
-- [[Setting Up An Obsidian-based Digital Garden Website]]
+- [[Setting Up AWS Sub-Account Structure For Projects]]
 
 %% End Waypoint %%
