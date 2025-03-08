@@ -1,7 +1,7 @@
 ---
 title: Taking Your Promotion - A Life Engineered
 date: 2025-03-08T20:40
-enableToc: false
+enableToc: true
 tags:
   - resonance-journal
 ---
