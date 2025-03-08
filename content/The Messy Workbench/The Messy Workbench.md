@@ -13,5 +13,6 @@ A space for tinkering and building.
 
 - [[Fitness Dashboard]]
 - [[Setting Up An Obsidian-based Digital Cottage Website]]
+- [[Setting Up An Obsidian-based Digital Garden Website]]
 
 %% End Waypoint %%
