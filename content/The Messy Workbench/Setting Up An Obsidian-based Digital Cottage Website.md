@@ -9,7 +9,7 @@ tags:
 > [!info]
 > *Edit Feb 2025:* 
 > 
-> Jacky has since released an update for Quartz (`version 4`) which is no longer based in Hugo/Golang, but rather `node.js`.
+> Jacky has since released an update for Quartz (`version 4`) which is no longer based in Hugo/gGolang, but rather `node.js`.
 > 
 > Migration is super simple, and it's provided a syntax convenience that is much easier to work with so far -- check it out [here](https://quartz.jzhao.xyz/migrating-from-Quartz-3) or go through the hosting docs to [configure](https://quartz.jzhao.xyz/#-get-started) `v4` from scratch. 
 > - If you end up appreciating the project as I have, consider making a one-off (or more) [sponsor](https://github.com/jackyzha0)! 

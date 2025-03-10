@@ -19,10 +19,13 @@ A journal for content I've consumed that had resonated with me.
 - [[Human Tenacity and Beating Tetris]]
 - [[Jony Ivy - The Man behind Apple Design]]
 - [[Life Advice From Bjarne Stroustrup]]
+- [[Losers become Winners by trying again]]
 - [[Making a Portable Mac Mini - Scott Yu-Jan]]
 - [[Oppenheimer (Movie)]]
 - [[Replacing entertainment habits with coding]]
+- [[Taking Your Promotion - A Life Engineered]]
 - [[Talent is a pursued interest]]
+- [[Two AI Agents autonomously encrypt their audio chat - Anton Pidkuiko]]
 - [[We are what we repeatedly do]]
 - [[Why Socrates Hated Democracy]]
 

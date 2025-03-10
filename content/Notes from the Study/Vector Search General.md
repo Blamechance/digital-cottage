@@ -14,7 +14,6 @@ tags:
 `Vectors` are encoded representations of unstructured data like text, images, and audio in the form of an **ordered arrays of numbers** (`floats` or `int8`).
 
 ![[attachments/media_Untitled-2.png]]
-![mental-noise.png](attachments/
 
 *Credit: CeVo Australia*
 
@@ -58,6 +57,9 @@ As concisely described by Jose Parra in [this post](https://www.mongodb.com/blog
 To clarify on his latter point, each additional `dimension` will add a new element in the array. Hence, a vector with `n` amount of dimensions, has `n` amount of elements in the resulting embedding array. 
 - This is what is meant, when Vector Search is described as "operating in a multi-dimensional space".
 - A vector search will require a vector query to have the same amount of dimensions/embedding elements, as to complete a valid search — similar to valid use of coordinates. 
+- The lower the dimensions, the more data gets "crowded" due to overlapping locations. By adding dimensions, data has more space to sparsely spread out — in doing this, you can generally **increase the precision of prompts.**
+- tl;dr **the more dimensions, the more ability the machine has to separate concepts in a Vector Database.**
+	- The trade-off is that generally, more dimensionsionality means more compute is required for retrieval. 
 
 As data is plotted across different "coordinates" in this multi-dimensional space, we can use various mathematical concepts to determine "similarity", depending on their "distance" relative to eachother. 
 

@@ -31,7 +31,7 @@ Retrieval methods can be dynamically changed at query time, without modifying th
 
 The two common types of retrieval methods are:
 ## K-nearest Neighbor (kNN)
-This algorithm ensures the retrieval of the true `k` nearest neighbors to a query vector. It does this by computing distances to every vector in that vector space — in this sense, it is often referred to as a "*brute force search*". 
+This algorithm ensures the retrieval of the true number of nearest neighbors (`k`) for a given query vector. It does this by computing distances to every vector in that vector space — in this sense, it is often referred to as a "*brute force search*". 
 - Due to the brute-forcing and thorough computations, it is best served in small to medium datasets (thousands to low millions of vectors). 
 - However, it provides perfect accuracy in captured neighbors. 
 - Index data structures are simplistic. 
@@ -84,9 +84,10 @@ Distance metrics are rooted in the mathematical concepts of vectors and vector d
 - e.g `|V| = √(v₁² + v₂² + ... + vₙ²)`
 - This allows  for the effective factoring for of negative `floats`, which is used within embeddings.
 
-# Are more dimensions necessarily better? 
+# Misc. Notes
+## Are more dimensions necessarily better? 
 
-# How does indexing work with Vector Databases? 
+## How does indexing work with Vector Databases? 
 
 ---
 # Resources: 
