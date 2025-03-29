@@ -26,6 +26,7 @@ A journal for content I've consumed that had resonated with me.
 - [[Taking Your Promotion - A Life Engineered]]
 - [[Talent is a pursued interest]]
 - [[Two AI Agents autonomously encrypt their audio chat - Anton Pidkuiko]]
+- [[Vibe Coding Is Similar To F2P Success - Thibaud Zamora]]
 - [[We are what we repeatedly do]]
 - [[Why Socrates Hated Democracy]]
 

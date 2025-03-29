@@ -16,5 +16,6 @@ A space for tinkering and building.
 - [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 - [[Setting Up An Obsidian-based Digital Cottage Website]]
 - [[Setting Up AWS Sub-Account Structure For Projects]]
+- [[Vibe-Coding with Gemini 2.5 Experimental]]
 
 %% End Waypoint %%
