@@ -6,7 +6,7 @@ tags:
   - AI
 ---
 I've been seeing a lot of noise over on X about how [Google's Gemini 2.5 Pro Experimental](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) is exponentially the best coding AI yet. So far, it's free with a 1M context window, so I figured it would be a good chance to check it out.
-
+# Giving in to the vibes and implementing a function without real validation
 My intention was to add a `Typescript` component that I could insert into the right-hand navbar of my [[Digital-Cottage/The Messy Workbench/Setting Up An Obsidian-based Digital Cottage Website|Digital Cottage Personal Website]] to show the most frequently occurring tags across my notes.
 
 I copied full snippets of code/code files from the repo (written by the original author), effectively operating with the files at a whole layer of abstraction above. I asked for the functionality and provided whole snippets of code as guidance for the AI, so it could infer the correct paths, variables, and components to use as the skeleton for the component file.
@@ -15,7 +15,10 @@ Once it had this context, I told it the logic I wanted it to apply, while also n
 
 - I proceeded to push it further by copying in more snippets for context; intending for it to adapt the variables and styling for design consistency. 
 
-The experience was kind of mind-blowing. I can see myself being able to ship and create more using these tools, but not being able to clearly assess the effect it would have on my learning, development, and productivity is a little intimidating.
+I committed the result in this [commit](https://github.com/Blamechance/digital-cottage/commit/b005c9b49c0ad81d9d2c0d371564b0d12c0c9d5e) within my repo. 
+
+# Reflection:
+The experience was kind of mind-blowing. I can see myself being able to ship and create more using these tools by focusing mostly on ideation while operating at layers of abstraction. But not being able to clearly assess the long-term effect it would have on my learning, development, and productivity is a little intimidating.
 
 Currently, my perspective is still that these tools should be used as aids that allow you to maintain momentum during building and learning, to eliminate the weeks-long blockages that you would normally run into with traditional bug squashing.
 
