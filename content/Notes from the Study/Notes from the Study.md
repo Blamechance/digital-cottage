@@ -24,7 +24,6 @@ Free-for-all collection of notes from my second brain.
 - [[Setting up SSH to EC2 Instances]]
 - [[Vector Search General]]
 - [[Vector Search Retrieval and Distance Metrics]]
+- [[Vibe-Coding with Gemini 2.5 Experimental]]
 
 %% End Waypoint %%
-
-%% Waypoint %% 
