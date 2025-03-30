@@ -13,8 +13,8 @@ This is mostly a space for me to write, think, build and reference. Notes are of
 - [[The Journal by the Window/The Journal by the Window|The Journal by the Window]] - Miscellaneous blog posts, thoughts and ideas. 
 - [[The Dusty Bookshelf/The Dusty Bookshelf|The Dusty Bookshelf]] - Notes and reviews of books I've read. 
 ### Get to know me through some miscellaneous highlights: 
-- [[Digital-Cottage/Notes from the Study/Vibe-Coding with Gemini 2.5 Experimental|Vibe-Coding with Gemini 2.5 Experimental]]
-- [[Digital-Cottage/The Messy Workbench/Fitness Dashboard README|Fitness Dashboard README]]
-- [[Digital-Cottage/Notes from the Study/Vector Search General|Vector Search General]]
-- [[Digital-Cottage/The Journal by the Window/A Case For Analogue Journaling And Tools|A Case For Analogue Journaling And Tools]]
-- [[Digital-Cottage/The Messy Workbench/Setting Up An Obsidian-based Digital Cottage Website|Setting Up An Obsidian-based Digital Cottage Website]]
+- [[../Notes from the Study/Vibe-Coding with Gemini 2.5 Experimental|Vibe-Coding with Gemini 2.5 Experimental]]
+- [[../The Messy Workbench/Fitness Dashboard README|Fitness Dashboard README]]
+- [[../Notes from the Study/Vector Search General|Vector Search General]]
+- [[../The Journal by the Window/A Case For Analogue Journaling And Tools|A Case For Analogue Journaling And Tools]]
+- [[../The Messy Workbench/Setting Up An Obsidian-based Digital Cottage Website|Setting Up An Obsidian-based Digital Cottage Website]]
