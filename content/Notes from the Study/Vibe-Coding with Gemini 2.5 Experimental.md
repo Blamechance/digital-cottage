@@ -7,7 +7,7 @@ tags:
 ---
 I've been seeing a lot of noise over on X about how [Google's Gemini 2.5 Pro Experimental](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) is exponentially the best coding AI yet. So far, it's free and comes with a 1M context window; so I was curious on giving it my own "vibecheck". 
 # Giving in to the vibes and implementing  functionality without real validation
-My intention was to add a `Typescript` component that I could insert into the right-hand navbar of my [[Digital-Cottage/The Messy Workbench/Setting Up An Obsidian-based Digital Cottage Website|Digital Cottage Personal Website]], to show the most frequently occurring tags across my notes.
+My intention was to add a `Typescript` component that I could insert into the right-hand navbar of my [[../The Messy Workbench/Setting Up An Obsidian-based Digital Cottage Website|Digital Cottage Personal Website]], to show the most frequently occurring tags across my notes.
 
 I copied full snippets of code/code files from the repo (written by the original author), effectively operating with the files at a whole layer of abstraction above. I asked for the functionality and provided whole snippets of code as guidance for the AI, so it could infer the correct paths, variables, and components to use as the skeleton for the component file.
 

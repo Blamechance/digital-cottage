@@ -7,8 +7,6 @@ import modernStyle from "./styles/toc.scss" // Import the modern ToC styles
 
 // Define configuration options
 interface Options {
-  /** How many tags to display, sorted by frequency. */
-  limit: number
   /** Tags to exclude from the list. */
   excludeTags: string[]
   /** Title for the component. */
@@ -18,26 +16,24 @@ interface Options {
 }
 
 const defaultOptions: Options = {
-  limit: 5, // Default to showing top 5
   excludeTags: [], // Default empty exclusion list
   title: undefined, // Use i18n default if not set
   showCount: true, // Default to showing counts
 }
 
-// Component showing Top N tags by frequency
-export const TopTags: QuartzComponent = ({
+// Renamed component export
+export const AllTags: QuartzComponent = ({
   fileData,
   allFiles,
   displayClass,
   cfg,
 }: QuartzComponentProps) => {
 
-  // Safely access user-defined options for this component
-  const userOpts = cfg?.configuration?.components?.TopTags ?? {}
+  // Safely access user-defined options using the new component name key
+  const userOpts = cfg?.configuration?.components?.AllTags ?? {}
   // Merge user config with defaults
   const opts = { ...defaultOptions, ...userOpts }
 
-  const limit = opts.limit
   const excludeTagsSet = new Set(opts.excludeTags.map(tag => tag.toLowerCase()))
   const showCount = opts.showCount
 
@@ -54,33 +50,31 @@ export const TopTags: QuartzComponent = ({
     }
   }
 
-  // Convert map to array of [tag, count] pairs
-  const tagEntries = Array.from(tags.entries())
+  // Get unique tag names from the map keys
+  const uniqueTags = Array.from(tags.keys())
 
-  // Sort the tags by frequency (count) descending
-  const sortedByFrequency = tagEntries.sort(([, countA], [, countB]) => countB - countA)
-
-  // Get the top N tags based on the configured limit
-  const topNList = sortedByFrequency.slice(0, limit)
+  // Sort the unique tags alphabetically
+  const sortedTags = uniqueTags.sort((a, b) => a.localeCompare(b))
 
   // Don't render if no tags are found after filtering
-  if (topNList.length === 0) {
+  if (sortedTags.length === 0) {
     return null
   }
 
   const baseDir = pathToRoot(fileData.slug!)
-  // Use configured title or i18n default (referencing topTags key), fallback to "Top Tags"
-  const componentTitle = opts.title ?? i18n(cfg?.locale).components?.topTags?.title ?? "Top Tags" // Updated i18n key and fallback
+  // Use configured title or i18n default (referencing allTags key), fallback to "Tags"
+  const componentTitle = opts.title ?? i18n(cfg?.locale).components?.allTags?.title ?? "All Tags" // Updated i18n key
 
   return (
-    // Apply 'toc' class for styling, add 'top-tags' class for specific overrides
-    <div class={classNames(displayClass, "toc", "top-tags")}> {/* Use top-tags class */}
+    // Apply 'toc' class for styling, use new 'all-tags' class for specific overrides
+    <div class={classNames(displayClass, "toc", "all-tags")}> {/* Updated CSS class */}
       {/* Heading style will be inherited from .toc h3 */}
       <h3>{componentTitle}</h3>
-      {/* Use 'overflow' class on ul for potential scrolling */}
+      {/* Use 'overflow' class on ul for potential scrolling if list is long */}
       <ul class="overflow">
-        {topNList.map(([tag, count]) => { // Map over the top N list
+        {sortedTags.map((tag) => { // Map over the alphabetically sorted tag names
           const linkDest = baseDir + `/tags/${slugTag(tag)}`
+          const count = tags.get(tag)! // Get the count from the original map
           return (
             // List item styling will be inherited from .toc ul li
             <li key={tag}>
@@ -97,8 +91,8 @@ export const TopTags: QuartzComponent = ({
 }
 
 // Assign the MODERN ToC styles to this component
-TopTags.css = modernStyle
+AllTags.css = modernStyle // Assign style to the new component name
 // No afterDOMLoaded script needed
 
-// Export the component constructor
-export default (() => TopTags) satisfies QuartzComponentConstructor
+// Update the default export
+export default (() => AllTags) satisfies QuartzComponentConstructor

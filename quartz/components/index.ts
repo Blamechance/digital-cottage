@@ -20,6 +20,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import AllTags from "./AllTags"
 import TopTags from "./TopTags"
 
 export {
@@ -45,5 +46,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
+  AllTags,
   TopTags
 }
