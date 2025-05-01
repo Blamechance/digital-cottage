@@ -10,6 +10,7 @@ Free-for-all collection of notes from my second brain.
 ## Directory:
 
 %% Begin Waypoint %%
+- [[Anthropic - Tracing the thoughts of a large language model]]
 - **attachments**
 
 - [[bash-awk]]
@@ -20,10 +21,14 @@ Free-for-all collection of notes from my second brain.
 - [[Clean Code]]
 - [[database-index-fundamentals]]
 - [[Pareto Principle]]
+- [[Prompt Library]]
 - [[Setting Up A Virtual Env For Development]]
 - [[Setting up SSH to EC2 Instances]]
+- [[Simple Sabotage - Declassified CIA Field Manual]]
 - [[Vector Search General]]
 - [[Vector Search Retrieval and Distance Metrics]]
 - [[Vibe-Coding with Gemini 2.5 Experimental]]
 
 %% End Waypoint %%
+
+%% Waypoint %% 
