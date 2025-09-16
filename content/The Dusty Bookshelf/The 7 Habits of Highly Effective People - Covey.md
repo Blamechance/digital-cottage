@@ -3,7 +3,7 @@ kindle-sync:
   bookId: '30033'
   title: The 7 Habits of Highly Effective People
   author: Stephen R. Covey
-  highlightsCount: 44
+  highlightsCount: 55
 title: The 7 Habits of Highly Effective People - Covey
 ---
 # The 7 Habits of Highly Effective People - Stephen R. Covey
@@ -248,3 +248,37 @@ So I recommend reading literature, such as the inspiring biography of Anwar Sada
 One thing I have found particularly helpful to Win/Lose people in developing a Win/Win character is to associate with some model or mentor who really thinks Win/Win. When people are deeply scripted in Win/Lose or other philosophies and regularly associate with others who are likewise scripted, they don’t have much opportunity to see and experience the Win/Win philosophy in action. So I recommend reading literature, such as the inspiring biography of Anwar Sadat, In Search of Identity, and seeing movies like Chariots of Fire or plays like Les Miserables that expose you to models of Win/Win. — location: [3385]() ^ref-2487
 
 ---
+
+Page: 225
+
+In the Win/Win agreement, the following five elements are made very explicit: Desired results (not methods) identify what is to be done and when. Guidelines specify the parameters (principles, policies, etc.) within which results are to be accomplished. Resources identify the human, financial, technical, or organizational support available to help accomplish the results. Accountability sets up the standards of performance and the time of evaluation. Consequences specify—good and bad, natural and logical—what does and will happen as a result of the evaluation. These five elements give Win/Win agreements a life of their own. A clear mutual understanding and agreement up front in these areas creates a standard against which people can measure their own success. ^ref-1335
+Page: 230
+
+thirty, fifty, or more. In Win/Win performance agreements, consequences become the natural or logical result of performance rather than a reward or punishment arbitrarily handed out by the person in charge. There are basically four kinds of consequences (rewards and penalties) that management ^ref-18712
+Page: 230
+
+In Win/Win performance agreements, consequences become the natural or logical result of performance rather than a reward or punishment arbitrarily handed out by the person in charge. There are basically four kinds of consequences (rewards and penalties) that management or parents can control—financial, psychic, opportunity, and responsibility. Financial consequences include such things as income, stock options, allowances, or penalties. Psychic or psychological consequences include recognition, approval, respect, credibility, or the loss of them. Unless people are in a survival mode, psychic compensation is often more motivating than financial compensation. Opportunity includes training, development, perks, and other benefits. Responsibility has to do with scope and authority, either of which can be enlarged or diminished. Win/Win agreements specify consequences in one or more of those areas and the people involved know it up front. So you don’t play games. Everything is clear from the beginning. ^ref-31402
+Page: 233
+
+For Win/Win to work, the systems have to support it. The training system, ^ref-59636
+Page: 233
+
+The spirit of Win/Win cannot survive in an environment of competition and contests. For Win/Win to work, the systems have to support it. The training system, the planning system, the communication system, the budgeting system, the information system, the compensation system—all have to be based on the principle of Win/Win. I did some consulting for another company that wanted training for their people in human relations. The underlying assumption was that the problem was the people. The president said, “Go into any store you want and see how they treat you. They’re just order takers. They don’t understand how to get close to the customers. They don’t know the product, and they don’t have the knowledge and the skill in the sales process necessary to create a marriage between the product and the need.” So I went to the various stores. And he was right. But that still didn’t answer the question in my mind: What caused the attitude? “Look, we’re on top of the problem,” the president said. “We have department heads out there setting a great example. We’ve told them their job is two-thirds selling and one-third management, and they’re outselling everybody. We just want you to provide some training for the salespeople.” Those words raised a red flag. “Let’s get some more data,” I said. He didn’t like that. He “knew” what the problem was, and he wanted to get on with training. But I persisted, and within two days we uncovered the real problem. Because of the job definition and the compensation system, the managers were “creaming.” They’d stand behind the cash register and cream all the business during the slow times. Half the time in retail is slow and the other half is frantic. So the managers would give all the dirty jobs—inventory control, stock work, and cleaning—to the salespeople. And they would stand behind the registers and cream. That’s why the department heads were tops in sales. So we changed one system—the compensation system—and the problem was corrected overnight. We set up a system whereby the managers only made money when their salespeople made money. We overlapped the needs and goals of the managers with the needs and goals of the salespeople. And the need for human relations training suddenly disappeared. The key was developing a true Win/Win reward system. ^ref-39044
+Page: 237
+
+parties can buy into. In my own work with various people and organizations seeking Win/Win solutions, I suggest that they become involved in the following four-step process: First, see the problem from the other point of view. Really seek to understand and to give expression to the needs and concerns of the other party ^ref-8917
+Page: 237
+
+In my own work with various people and organizations seeking Win/Win solutions, I suggest that they become involved in the following four-step process: First, see the problem from the other point of view. Really seek to understand and to give expression to the needs and concerns of the other party as well as or better than they can themselves. Second, identify the key issues and concerns (not positions) involved. Third, determine what results would constitute a fully acceptable solution. And fourth, identify possible new options to achieve those results. ^ref-47220
+Page: 242
+
+Unless you’re influenced by my uniqueness, I’m not going to be influenced by your advice. So if you want to be really effective in the habit of interpersonal communication, you cannot do it with technique alone. You have to build the skills of empathic listening on a base of character that inspires openness and trust. And you have to build the Emotional Bank Accounts that create a commerce between hearts. ^ref-36748
+Page: 241
+
+If you want to interact effectively with me, to influence me—your spouse, your child, your neighbor, your boss, your coworker, your friend—you first need to understand me. And you can’t do that with technique alone. If I sense you’re using some technique, I sense duplicity, manipulation. I wonder why you’re doing it, what your motives are. And I don’t feel safe enough to open myself up to you. The real key to your influence with me is your example, your actual conduct. Your example flows naturally out of your character, or the kind of person you truly are—not what others say you are or what you may want me to think you are. It is evident in how I actually experience you. ^ref-17215
+Page: 242
+
+A father once told me, “I can’t understand my kid. He just won’t listen to me at all.” “Let me restate what you just said,” I replied. “You don’t understand your son because he won’t listen to you?” “That’s right,” he replied. “Let me try again,” I said. “You don’t understand your son because he won’t listen to you?” “That’s what I said,” he impatiently replied. “I thought that to understand another person, you needed to listen to him,” I suggested. “Oh!” he said. There was a long pause. “Oh!” he said again, as the light began to dawn. “Oh, yeah! But I do understand him. I know what he’s going through. I went through the same thing myself. I guess what I don’t understand is why he won’t listen to me.” This man didn’t have the vaguest idea of what was really going on inside his boy’s head. He looked into his own head and thought he saw the world, including his boy. ^ref-61195
+Page: 244
+
+Empathy is not sympathy. Sympathy is a form of agreement, a form of judgment. And it is sometimes the more appropriate emotion and response. But people often feed on sympathy. It makes them dependent. The essence of empathic listening is not that you agree with someone; it’s that you fully, deeply, understand that person, emotionally as well as intellectually. ^ref-23385
