@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Homepage
 enableToc: false
 ---
 Welcome to my digital cottage! 👋
 
-This is mostly a space for me to write, think, reference and build. 
+This is mostly a space for me to write, think, build and reference. Notes are often unpolished and incomplete; but growing. 
 
 ## Look around: 
 - [[Notes from the Study/Notes from the Study|Notes from the Study]] - Free-for-all collection of notes from my second brain. 
