@@ -12,7 +12,7 @@ To set up a virtual environment, you can follow these steps:
 
 ## Step 1: Install choice virtual Environment or use native `venv`.
 My pick of choice is generally `venv`, but there's also `pipenv` and `virutalenv`. `Virtualenv` is apparently more flexible for complex dependency management, but I've yet to experience the limitations of `venv`. 
-- It is included in the native Python library as of `Python 3.3`. 
+- It's also been the standard since it's inclusion to the native Python library, as of `Python 3.3`. 
 
 ## Step 2: Create root directory of the new project. 
 - `venv` will create a folder for the virtual environment files. 
@@ -24,13 +24,13 @@ Next, create a virtual environment by running the following command:
 For Windows:
 
 ```
-python -m venv env
+python -m venv .venv
 ```
 
 For macOS/Linux:
 
 ```
-python3 -m venv env
+python3 -m venv .venv
 ```
 - This will create a virtual environment named "env" in the current directory.
 
@@ -46,11 +46,11 @@ env\\Scripts\\activate
 For macOS/Linux:
 
 ```bash
-source venv/bin/activate #macOS / linux
+source .venv/bin/activate #macOS / linux
 
-source venv/scripts/activate # Windows
+source .venv/scripts/activate # Windows
 ```
-- You will notice that the virtual environment name "env" appears in the terminal prompt, indicating that the virtual environment is now active.
+- You will notice that the virtual environment's name appears in the terminal prompt, indicating that the virtual environment is now active.
 
 ## Step 5: Start Using the Virtual Environment:
 Make sure you install any dependencies and modules you use in your project **only when the virtual environment is active**. 
@@ -86,6 +86,9 @@ pip install -r requirements.txt
 ```
 This will install all listed dependencies in the new environment. 
 
+
+# Next:
+- [[using-environment-variables]]
 ---
 ### Resources
 - https://www.geeksforgeeks.org/how-to-create-requirements-txt-file-in-python/

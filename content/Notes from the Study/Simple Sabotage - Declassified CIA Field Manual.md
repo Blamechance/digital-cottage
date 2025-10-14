@@ -6,11 +6,12 @@ tags:
   - psychology
 ---
 [This](http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/OSS_Simple_Sabotage_Manual.pdf) declassified `Simple Sabotage Field Manual` makes for an incredibly interesting read. 
+
 It was a field manual that was provided to OSS officers (the organization preceding the CIA), that guided agents on behaviour that would intentionally sow organizational inefficiency, disruption and incompetence. Specifically, the manual was distributed to OSS officers in foreign countries in order to help them train "citizen-saboteurs" in [German-occupied Europe](https://en.wikipedia.org/wiki/German-occupied_Europe "German-occupied Europe"). 
 
-Citizen-saboteurs are often independent individuals who are motivated to act in disruptive ways to an organization; often as the result of propoganda, or generally aligned aligned sentiments/beliefs against the target organization. 
+Citizen-saboteurs are generally independent individuals who are motivated to act in disruptive ways to an organization; often as the result of propaganda, or self-alignment with antagonistic sentiments/beliefs against the target organization. 
 
-Reading through the guide, I can't tell whether it was crafted from the observation of natural occurring, but highly disruptive "citizen-saboteurs", or whether the highly-effective citizen-saboteur is rather a creation of intelligence agencies. 
+Reading through the guide, I can't tell whether it was crafted from the observation of natural occurring, but highly disruptive "citizen-saboteur" behaviour, or whether the highly-effective citizen-saboteur is rather a creation of intelligence agencies. 
 
 As support for the latter view, the guide states:
 > Purposeful stupidity is contrary to human nature. He frequently needs pressure stimulation or assurance, and information and suggestions regarding feasible methods of simple sabotage.
