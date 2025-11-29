@@ -70,6 +70,7 @@ Check it out here:
 - There were some intentional design decisions made, in my guiding of the agent though, including: 
 	- To allow stateful interactions, leverage browser `localStorage` instead of any kind of database. 
 	- Not over-complicating the front-end elements, so that mobile viewport was simply the same elements with a more narrow width (less chance of things breaking). 
+	- Adding UX improvements, like row highlighting for wins/losses, within a players match history. 
 
 
 
@@ -121,4 +122,4 @@ Make sure that the total generated rounds are at least 2 times the number of pla
 ![[attachments/media_Vibe-Coding a Badminton Scheduler Bot.png]]
 ![[attachments/media_Vibe-Coding a Badminton Scheduler Bot-1.png]]
 ![[attachments/media_Vibe-Coding a Badminton Scheduler Bot-2.png]]
-![[attachments/media_Vibe-Coding a Badminton Scheduler Bot-3.png]]
+![[attachments/media_Badminton Scheduler Bot.png]]
