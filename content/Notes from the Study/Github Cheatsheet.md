@@ -53,6 +53,10 @@ Then, you can test Github auth:
 ```sh 
 ssh -T git@github.com
 
+# If you have alternative hosts, use those hostnames instead. e.g: 
+ssh -T git@github-work  
+
+
 # Successful output looks like:
 # "Hi USERNAME! You've successfully authenticated, but GitHub does not provide shell access."
 
@@ -71,7 +75,6 @@ git push -u origin main
 # Cheatsheet: 
 ### Getting & Creating Projects
 
-
 | Command                                                           | Description                                |
 | ----------------------------------------------------------------- | ------------------------------------------ |
 | `git init`                                                        | Initialize a local Git repository          |
@@ -88,7 +91,7 @@ git push -u origin main
 | `git rm -r [file-name.txt]`        | Remove a file (or folder)                         |
 |                                    |                                                   |
 
-### Branching & Merging
+### Branching & Merginggi
 
 | Command | Description |
 | ------- | ----------- |

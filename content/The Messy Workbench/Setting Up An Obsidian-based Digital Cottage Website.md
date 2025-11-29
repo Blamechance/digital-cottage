@@ -115,7 +115,7 @@ Run the following to load the edited config to current shell (you might need to 
 3. That's it! Run `make serve` to view your website locally, and push to your github repo to host it on [Github pages](https://docs.github.com/en/pages/quickstart).
 
 #### Automating export:
-Here's a quick and dirty bash script to clears the repo's copy of the vault and index files, to copy in the current ones from the obsidian vault location. 
+Using a naive quick and dirty bash script to clears the repo's copy of the vault and index files, to copy in the current ones from the obsidian vault location. 
 
 Automating this process means the creation process of posts is simple:
 1. Write/edit posts and index file as notes in obsidian
@@ -123,23 +123,21 @@ Automating this process means the creation process of posts is simple:
 3. Run script in terminal to update the browser render live. 
 4. To post, push on git! 
 
-Feel free to adapt if the idea is useful.
-
+e.g
 ```bash
 #!/bin/bash
 
+#!/bin/bash
 
-SOURCE_PATH=~/path/to/source
-DESTINATION_PATH=~/path/to/destination
+SOURCE_PATH=/home/tommy/Documents/obsidian_blamechance_wiki/Digital-Cottage
+DESTINATION_PATH=/home/tommy/Documents/digital-cottage/content
 
-# Delete all files in the target export folder - public_digital_garden is the folder that i've placed all my obsidian notes in (both in my vault and the quartz folder). Adapt for your folder name. 
+echo "Remember to delete/edit the index.md before running script!"
+read -p "Press Enter to continue or Ctrl+C to cancel..."
 
-rm "$DESTINATION_PATH"/Public_Digital_Garden/*
-rm "$DESTINATION_PATH"/_index.md
+rm -rf "$DESTINATION_PATH"/*
+cp -r "$SOURCE_PATH"/* "$DESTINATION_PATH"
 
-# Copy index file and public folder from obsidian vault to export folder for git pushing
-cp -r "$SOURCE_PATH"/Public_Digital_Garden "$DESTINATION_PATH"/
-cp "$SOURCE_PATH"/_index.md "$DESTINATION_PATH"/
 ```
 ---
 #### References: 

@@ -14,6 +14,7 @@ This is mostly a space for me to write, think, build and reference. Notes are of
 - [[The Dusty Bookshelf|The Dusty Bookshelf]] - Notes and reviews of books I've read. 
 ### Get to know me through some miscellaneous highlights: 
 - [[../Notes from the Study/Vibe-Coding with Gemini 2.5 Experimental|Vibe-Coding with Gemini 2.5 Experimental]]
+- [[The Messy Workbench/Badminton Scheduler Bot|Badminton Scheduler Bot]]
 - [[../The Messy Workbench/Fitness Dashboard README|Fitness Dashboard README]]
 - [[../Notes from the Study/Vector Search General|Vector Search General]]
 - [[../The Journal by the Window/A Case For Analogue Journaling And Tools|A Case For Analogue Journaling And Tools]]

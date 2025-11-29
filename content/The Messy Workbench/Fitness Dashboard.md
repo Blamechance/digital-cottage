@@ -61,7 +61,8 @@ The target for this iteration is to have a functional working proof of concept.
 ## Ver 1.1 - Hosting The App Online:
 The Tl;DR of it is that I went with a AWS Free Tier Ubuntu 20.04 instance, hosting it on my domain managed with CloudFlare. 
 
-It's accessible [here](https://fitness-dashboard.tcao.dev/login)! **EDIT: I've decommissioned it due to expiring EC2 Free Tier, but feel free to check out the video demonstration or GitHub repo.**
+It's accessible [here](https://fitness-dashboard.tcao.dev/login)! 
+**EDIT: I've decommissioned it due to expiring EC2 Free Tier, but feel free to check out the video demonstration or GitHub repo.**
 
 - [[../Notes from the Study/Setting Up AWS Sub-Account Structure For Projects|Setting Up AWS Sub-Account Structure For Projects]]
 - [[../Notes from the Study/Serving a Flask Web App on AWS using Gunicorn And Nginx|Serving a Flask Web App on AWS using Gunicorn And Nginx]]

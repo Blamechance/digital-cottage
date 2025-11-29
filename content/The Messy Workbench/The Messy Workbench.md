@@ -11,8 +11,10 @@ A space for tinkering and building.
 %% Begin Waypoint %%
 - **attachments**
 
+- [[Badminton Scheduler Bot]]
 - [[Fitness Dashboard README]]
 - [[Fitness Dashboard]]
+- [[Labbing Vector Search, Langchain and local LLMs]]
 - [[Serving a Flask Web App on AWS using Gunicorn And Nginx]]
 - [[Setting Up An Obsidian-based Digital Cottage Website]]
 - [[Setting Up AWS Sub-Account Structure For Projects]]
